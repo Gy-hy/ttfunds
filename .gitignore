@@ -3,3 +3,4 @@ __pycache__/
 *.db
 原始代码.py
 原始代码文档.md
+.idea/
